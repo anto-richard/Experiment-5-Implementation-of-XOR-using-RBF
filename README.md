@@ -1,5 +1,3 @@
-![img1](https://user-images.githubusercontent.com/93427534/201352435-f0b12796-e450-4ff9-91e4-6c6a88c03c82.png)
-![img2](https://user-images.githubusercontent.com/93427534/201352440-6fbc461e-33c9-4cb4-8a7b-5780e159208e.png)
 # Experiment-5    Implementation-of-XOR-using-RBF...
 
 ## AIM:
